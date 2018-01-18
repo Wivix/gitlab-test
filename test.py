@@ -2,4 +2,4 @@
 # -*- coding:utf-8 -*-
 
 print("Hello World!");
-print("How do you do?");
+print("How do?");
